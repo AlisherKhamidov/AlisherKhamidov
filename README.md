@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **a.a.khamidov@yandex.ru**
 
-- 📄 Know about my experiences I have a solid background in logics.
+- 📄 Know about my experiences. I have a solid background in logics.
 
 - ⚡ Fun fact **I taught soft-skills disciplines in ITMO University.**
 
