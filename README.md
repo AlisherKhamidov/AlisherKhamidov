@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alisher</h1>
-<h3 align="center">A passionate full stack developer from Sain-Petersburg</h3>
+<h3 align="center">A passionate full stack developer from Saint-Petersburg</h3>
 
 - 🌱 I’m currently learning **more about back and algorithms.**
 
