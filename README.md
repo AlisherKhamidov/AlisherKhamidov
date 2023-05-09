@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Alisher</h1>
-<h3 align="center">A passionate full stack developer</h3>
+## Hey, my name is Alisher!
 
-- 🌱 I’m currently learning **more about back and algorithms.**
+I am a full stack developer (React TS, MUI, Java, Spring Boot, Node.js, MySQL, PostgreSQL, MongoDB etc). 
 
-- 👨‍💻 All of my projects are available at [https://github.com/AlisherKhamidov](https://github.com/AlisherKhamidov)
+There is nothing more pleasant for me than clear, simple and efficient code.
 
-- 📫 How to reach me **a.a.khamidov@yandex.ru**
+Currently I’m learning more about design patterns and architecture. I have a solid background in Logics (Master Degree). I also taught soft-skills disciplines in ITMO University, as well as hard disciplines. 
 
-- 📄 I have a solid background in logics.
-
-- ⚡ Fun fact **I taught soft-skills disciplines in ITMO University.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
