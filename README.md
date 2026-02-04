@@ -1,10 +1,8 @@
 ## Hey, my name is Alisher!
 
-I am a full stack developer (React TS, MUI, Java, Spring Boot, Node.js, MySQL, PostgreSQL, MongoDB etc). 
+I am a full stack developer (React TS, MUI, Java, Spring Boot, Express, MySQL, PostgreSQL, MongoDB, Redis etc). 
 
 There is nothing more pleasant for me than clear, simple and efficient code.
-
-Currently I’m learning more about design patterns and architecture. I have a solid background in Logics (Master Degree). I also taught soft-skills disciplines in ITMO University, as well as hard disciplines. 
 
 
 <h3 align="left">Connect with me:</h3>
