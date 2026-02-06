@@ -1,6 +1,8 @@
 ## Hey, my name is Alisher!
 
-I am a full stack developer (React TS, MUI, Java, Spring Boot, Express, MySQL, PostgreSQL, MongoDB, Redis etc). 
+I am a full stack developer (React TS, MUI, Java, Spring Boot, Express, Nest, Next, MySQL, PostgreSQL, MongoDB, Redis etc). 
+
+💻 **Check out my website:** [khamidov.dev](https://www.khamidov.dev)  
 
 There is nothing more pleasant for me than clear, simple and efficient code.
 
