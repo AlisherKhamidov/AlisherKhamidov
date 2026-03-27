@@ -1,6 +1,6 @@
 ## Hey, my name is Alisher!
 
-I am a full stack developer (React, TS, MUI, Express, Nest, Next, MySQL, PostgreSQL, Redis, k8s etc). 
+I am a full stack developer (NextJS, TS, Tailwind, Express, Nest, PostgreSQL, Redis, Kafka, k8s etc). 
 
 💻 **My website:** [khamidov.dev](https://www.khamidov.dev)  
 
